@@ -7,7 +7,7 @@ Nor do you need a DPLA API key.
 
 This is a modified version of the plugin developed by Josh Ferrell, available at https://github.com/lfarrell/DPLA-Search-Widget. Specific modifications: altered behavior to load results in a new window/tab. Increased input area width, removed background color from search button, and changed button text to gray to remove CSS conflicts.
 
-Download the plugin from https://github.com/dcplumer/Wordpress-DPLA-Search-Widget-dcplumer-Plugin.  Unzip the plugin and activate
+Download the plugin from https://github.com/dcplumer/DPLA-Search-Widget-dcplumer.  Unzip the plugin and activate
 it in your admin panel.
 
 Then simply add the following to any Wordpress page/post:
