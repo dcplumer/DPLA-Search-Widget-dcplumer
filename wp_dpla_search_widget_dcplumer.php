@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: DPLA Search Widget (dcplumer)
-Plugin URI: https://github.com/dcplumer/Wordpress-DPLA-Search-Widget-dcplumer-Plugin
+Plugin URI: https://github.com/dcplumer/DPLA-Search-Widget-dcplumer
 Description: Plugin for displaying a search form to search the Digital Public Library of America. Modified version of the plugin developed by Dean Farrell, https://github.com/lfarrell/DPLA-Search-Widget
 Author: Danielle Cunniff Plumer
 Version: 0.1
