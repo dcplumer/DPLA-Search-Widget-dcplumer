@@ -19,4 +19,4 @@ Then simply add the following to any Wordpress page/post:
 
 The widget should look like this on your Wordpress page:
 
-dpla-widget-dcplumer.png
+![modified DPLA widget](http://www.dcplumer.com/dpla/dpla-widget-dcplumer.png)
